@@ -2,7 +2,7 @@
   "name": "@f/form-controls",
   "description": "Retrieve a list of controls from a form",
   "repository": "git://github.com/micro-js/form-controls.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
